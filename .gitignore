@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Build / temp scripts
+presentation/build_presentation.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
