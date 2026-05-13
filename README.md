@@ -131,9 +131,3 @@ learning and productivity tool in accordance with course guidelines.
 - OpenCV color space conversions: https://docs.opencv.org/4.x/d8/d01/group__imgproc__color__conversions.html
 - NumPy documentation: https://numpy.org/doc/
 - Matplotlib documentation: https://matplotlib.org/stable/
-
----
-
-## Author
-
-Graduate Computer Vision — Week 1 Assignment
